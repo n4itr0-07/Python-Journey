@@ -6,14 +6,14 @@
 
 <hr>
 <h3>CHAPTER 1</h3>
-<ol>
+<b><ol>
 <li>What Is Python?</li>
 <li>Variables</li>
 <li>Data Types</li>
 <li>Types Of Operators</li>
 <li>Input & Output</li>
 <li>Practice Questions</li>
-<hr>
+<hr></b>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_with_ssn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/salik-seraj-naik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Code_With_Ssn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/code_with_ssn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yt.codewithssn?si=beTniHUbaS-JlpKs) 
@@ -30,5 +30,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
