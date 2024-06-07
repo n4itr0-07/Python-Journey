@@ -11,3 +11,11 @@ if(age >= 18):
 
     elif(light == "yellow"):
         print("Slow Down")
+
+num = 5
+
+if(num > 2):
+ print("Greater than ")
+
+elif(num > 3):
+ print("Greater than ")
