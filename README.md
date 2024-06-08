@@ -15,7 +15,7 @@
 <li>Practice Questions</li>
 </ul>
 <hr></b>
-<hr>
+
 <h3>CHAPTER 2</h3>
 <b><ul>
 <li>Strings & conditional Statements</li>
@@ -24,6 +24,17 @@
 <li>Types Of Operators</li>
 <li>if, elif, else</li>
 <li>Slicing In Strings</li>
+<li>Practice Questions</li>
+</ul>
+<hr></b>
+
+<h3>CHAPTER 3</h3>
+<b><ul>
+<li>List In Python</li>
+<li>List Method</li>
+<li>List Slicing </li>
+<li>Tuples In Python</li>
+<li>Tuples Method</li>
 <li>Practice Questions</li>
 </ul>
 <hr></b>
