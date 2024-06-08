@@ -6,17 +6,18 @@
 
 <hr>
 <h3>CHAPTER 1</h3>
-<b><ol>
+<b><ul>
 <li>What Is Python?</li>
 <li>Variables</li>
 <li>Data Types</li>
 <li>Types Of Operators</li>
 <li>Input & Output</li>
 <li>Practice Questions</li>
+</ul>
 <hr></b>
 <hr>
 <h3>CHAPTER 2</h3>
-<b><ol>
+<b><ul>
 <li>Strings & conditional Statements</li>
 <li>Basic Operators</li>
 <li>Conditional Statements</li>
@@ -24,6 +25,7 @@
 <li>if, elif, else</li>
 <li>Slicing In Strings</li>
 <li>Practice Questions</li>
+</ul>
 <hr></b>
 
 ## 🌐 Socials:
