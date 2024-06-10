@@ -3,7 +3,7 @@
 # "python", "java", "C++", "python", 'javascript", "java", "python", "C++", "C" 
 
 subjects = {
-    "python", "java", "C++", "python", 'javascript", "java","python", "c++", "C"
+    "python", "java", "C++", "python", "javascript", "java","python", "C++", "C"
 }
 
 print(subjects)
