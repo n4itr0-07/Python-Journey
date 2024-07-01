@@ -6,7 +6,6 @@
 
 ![Uploading Github_Mini-Frontend-Projects.png…]()
 
-
 <hr>
 <h3>CHAPTER 1</h3>
 <b><ul>
