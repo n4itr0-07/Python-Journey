@@ -2,9 +2,6 @@
 <br>
 
 <b><i><p>In this repo i will share all my coding stuff related to python</p></i></b>
-<br>
-
-![Uploading Github_Mini-Frontend-Projects.png…]()
 
 <hr>
 <h3>CHAPTER 1</h3>
