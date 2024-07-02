@@ -1,4 +1,4 @@
-# questions on conditionals
+# Questions on Conditionals
 
 <details>
 <summary>1. Age Group Categorization
@@ -8,7 +8,7 @@ Classify a person's age group: Child (< 13), Teenager (13-19), Adult (20-59), Se
 </details>
 
 <details>
-<summary>2. <b>Movie Ticket Pricing</b>
+<summary>2. Movie Ticket Pricing
 </summary>
 Problem: Movie tickets are priced based on age: $12 for adults (18 and over), $8 for children. Everyone gets a $2 discount on Wednesday.
 
@@ -73,3 +73,5 @@ Problem: Determine if a year is a leap year. (Leap years are divisible by 4, but
 Problem: Recommend a type of pet food based on the pet's species and age. (e.g., Dog: <2 years - Puppy food, Cat: >5 years - Senior cat food).
 
 </details>
+
+<b><center><a href="https://x.com/code_with_ssn" target="_blank">Follow Me On X</a></center></b>
