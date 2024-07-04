@@ -6,7 +6,7 @@
 # - 3 is a prime number because the only divisors are 1 and 3.
 # - 4 is not a prime number because it can be divided by 1, 2, and 4 (4 = 2 × 2).
 
-# Prime numbers are the building blocks of the natural numbers because every natural number greater than 1 can be factored into prime numbers, which is called its prime factorization.
+#TODO: Prime numbers are the building blocks of the natural numbers because every natural number greater than 1 can be factored into prime numbers, which is called its prime factorization.
 
 # prime_number = int(input("Enter Your Number : "))
 
