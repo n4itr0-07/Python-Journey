@@ -56,66 +56,80 @@
 <li><a href="https://x.com/code_with_ssn">Follow Me On X</a> </li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 6</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Function In Python</li>
+<li>Average Calculate</li>
+<li>Recursion</li>
+<li>Practice Questions</li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 7</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Files I/O</li>
+<li>Read & Write File</li>
+<li>Syntax etc</li>
+<li>Practice Question</li>
+
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 8 | Part 1 </h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>OOPs In Python</li>
+<li>Class In OOP</li>
+<li>__init__function</li>
+<li>Instance Attribute</li>
+<li>Methods</li>
+<li>Practice Questions</li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 8 | Part 2</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Class Method</li>
+<li>inheritance </li>
+<li>Polymorphysim</li>
+<li>Private Like</li>
+<li>Super Method</li>
+<li>Del key</li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 9</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>2D Arrays</li>
+<li>Data Types</li>
+<li>pyjoke Module Install</li>
+<li>Practice Question</li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 10</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Conditional Statements Questions</li>
+<li>10 Questions In .md File</li>
+<li>Solution For 10 Qestions</li>
 </ul>
 <hr></b>
+<h3>CHAPTER 11</h3>
+<b><ul>
+<li> Loops In Python Questions</li>
+<li>10 Questions In .md File</li>
+<li>Solution For 10 Qestions</li>
+</ul>
+<hr></b>
+<h3>CHAPTER 12</h3>
+<b><ul>
+<li>Function Questions</li>
+<li>10 Questions In .md File</li>
+<li>Solution For 10 Qestions</li>
+</ul>
+<hr></b>
+<h3>CHAPTER 13</h3>
+<b><ul>
+<li>OOPs In Python Practice Questions</li>
+<li>10 Questions In .md File</li>
+<li>Solution For 10 Qestions</li>
+</ul>
+<hr></b>
+
 <h3>CHAPTER 4</h3>
 <b><ul>
 <li></li>
