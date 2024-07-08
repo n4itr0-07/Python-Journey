@@ -129,28 +129,13 @@
 <li>Solution For 10 Qestions</li>
 </ul>
 <hr></b>
-
-<h3>CHAPTER 4</h3>
+<h3>CHAPTER 14</h3>
 <b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Decorators In Python Practice Questions</li>
+<li>10 Questions In .md File</li>
+<li>Solution For 3 Qestions</li>
 </ul>
 <hr></b>
-<h3>CHAPTER 4</h3>
-<b><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-<hr></b>
-
 
 
 <div align="left">
