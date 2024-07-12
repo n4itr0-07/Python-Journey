@@ -136,6 +136,14 @@
 <li>Solution For 3 Qestions</li>
 </ul>
 <hr></b>
+<h3>CHAPTER 15</h3>
+<b><ul>
+<li>Python Practice Questions</li>
+</ul>
+  
+![oopss](https://github.com/user-attachments/assets/9e173a49-9854-423e-80df-17fb48227f39)
+<hr></b>
+
 
 
 <div align="left">
