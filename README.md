@@ -136,6 +136,12 @@
 <li>Solution For 3 Qestions</li>
 </ul>
 <hr></b>
+<h3>CHAPTER 15</h3>
+<b><ul>
+<li>Python Practice Questions</li>
+</ul>
+  
+<hr></b>
 
 
 <div align="left">
