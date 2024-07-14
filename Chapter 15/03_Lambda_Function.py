@@ -29,5 +29,12 @@ try:
     x = 10 / 0
 except ZeroDivisionError:
     print("Error: Division by zero!")
-
+    
 # What will be the output of this code?
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
+squared_evens = list(map(lambda x: x * x, even_numbers))
+sum_squares = sum(squared_evens)
+print("Even Numbers:", even_numbers)
+print("Sum of Squared Evens:", sum_squares)
