@@ -1,6 +1,3 @@
-Sure! Here's an example of a Markdown file (`README.md`) that explains the Personal Finance Manager project:
-
-### README.md
 
 # Personal Finance Manager
 
