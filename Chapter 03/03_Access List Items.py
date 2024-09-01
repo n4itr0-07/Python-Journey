@@ -62,10 +62,10 @@ if "Ball" in thislist:
 else:
     print("No, 'Ball' is not present in the list")
 
-    #FIXME: Part 3 of question below
+#FIXME: Part 3 of question below
 
-    """
-    Write a program to create a list containing 10 elements. Write a program to print the first three elements of the list.
-    """
-    list = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon"]
-    print(list[:3])  # Output: ['apple', 'banana', 'cherry']
+"""
+ Write a program to create a list containing 10 elements. Write a program to print the first three elements of the list.
+"""
+list = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon"]
+print(list[:3])  # Output: ['apple', 'banana', 'cherry']
