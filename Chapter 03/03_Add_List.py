@@ -73,3 +73,8 @@ thislist = ["apple", "banana", "cherry"]
 thislist.clear()
 
 print(thislist)
+
+#TODO: Remove Method
+
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("apple")# Your code here
