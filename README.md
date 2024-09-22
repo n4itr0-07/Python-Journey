@@ -1,7 +1,7 @@
 # My Journey With Python 💚
 <br>
 
-<b><i><p>In this repo i will share all my coding stuff related to python</p></i></b>
+<b><i><p>In this repo i will share all my coding stuff related to python scroll below for details</p></i></b>
 
 <hr>
 <h3>CHAPTER 1</h3>
