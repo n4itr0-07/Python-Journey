@@ -4,3 +4,7 @@ str1 = "This is a string.\nAnd i am a human" # FIXME: Valid
 
 
 print(str1)
+
+user_input = str(input("What is the string? \n"))
+
+print("The user input string is: ", user_input)
